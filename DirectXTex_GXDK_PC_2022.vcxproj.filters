@@ -129,6 +129,5 @@
     <None Include="Shaders\BC7Encode.hlsl">
       <Filter>Source Files\Shaders</Filter>
     </None>
-    <None Include="README.md" />
   </ItemGroup>
 </Project>

@@ -263,7 +263,6 @@
     <ClInclude Include="xg.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
     <None Include="Shaders\BC6HEncode.hlsl">
       <FileType>Document</FileType>
     </None>
